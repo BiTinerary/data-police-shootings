@@ -76,7 +76,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 338,Victor Manuel Reyes,2015-01-31,shot,gun,31,M,H,Houston,TX,False,attack,Not fleeing,False
 339,Edward Donnell Bright,2015-01-31,shot and Tasered,knife,54,M,B,Randallstown,MD,True,other,Not fleeing,False
 528,Jacob Haglund,2015-02-02,shot,gun,17,M,W,Bay City,MI,False,attack,Not fleeing,False
-114,David Kassick,2015-02-02,shot,unarmed,59,M,W,Hummelstown,PA,False,other,Foot,False
+114,David Kassick,2015-02-02,shot,unarmed,59,M,W,Hummelstown,PA,False,other,Foot,True
 115,Francis Murphy Rose III,2015-02-02,shot,gun,42,M,W,Apple Valley,CA,True,attack,Not fleeing,False
 117,Ledarius D. Williams,2015-02-03,shot,gun,23,M,B,St. Louis,MO,False,attack,Foot,False
 118,Yuvette Henderson,2015-02-03,shot,gun,38,F,B,Emeryville,CA,False,attack,Car,False
